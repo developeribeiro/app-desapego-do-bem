@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963203754436",
+    "firebase_url": "https://desapego-do-bem.firebaseio.com",
+    "project_id": "desapego-do-bem",
+    "storage_bucket": "desapego-do-bem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963203754436:android:07fe67da146acf28d8dc91",
+        "android_client_info": {
+          "package_name": "br.com.desapegodobem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963203754436-7ubas5bq4qpa4k7oh8sb7tm3amh27hl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.desapegodobem",
+            "certificate_hash": "5742c1f737ed63debb42548e58af5380b30a6cdc"
+          }
+        },
+        {
+          "client_id": "963203754436-k13kivqs2vlcivtlsb8luk7ve4dvast1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKc7Z7i5tH-qT4uZ7lrdYw4GS3eAAqtQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963203754436-k13kivqs2vlcivtlsb8luk7ve4dvast1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
